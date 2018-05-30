@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Title: spring-boot-jpa-example
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: andressanchez
+Implementation-Vendor-Id: com.ibm.springbootjpa.tutorial
 Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-jpa
 Created-By: Maven Integration for Eclipse
 
